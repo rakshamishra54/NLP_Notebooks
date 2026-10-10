@@ -7,9 +7,9 @@ A collection of Jupyter/Colab notebooks where I practice Natural Language Proces
 
 | # | Notebook | What it covers |
 |---|----------|----------------|
-| 01 | [Text Preprocessing](notebooks/01_text_preprocessing.ipynb) | Lowercasing, removing HTML tags and emails, punctuation removal, tokenization, stopword removal, stemming (Porter Stemmer) |
-| 02 | [POS Tagging](notebooks/02_pos_tagging.ipynb) | Part-of-speech tagging with NLTK / spaCy |
-| 03 | [Word2Vec](notebooks/03_word2vec.ipynb) | Training and using word embeddings with Gensim |
+| 01 | [Text Preprocessing] | Lowercasing, removing HTML tags and emails, punctuation removal, tokenization, stopword removal, stemming (Porter Stemmer) |
+| 02 | [POS Tagging]| Part-of-speech tagging with NLTK / spaCy |
+| 03 | [Word2Vec] | Training and using word embeddings with Gensim |
 
 More notebooks will be added as I go (text classification, TF-IDF, etc.).
 
